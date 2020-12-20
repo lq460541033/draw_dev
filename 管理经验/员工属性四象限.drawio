@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T04:10:29.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="44kvmdpRXJuagSd5SjkK" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-20T04:12:56.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MlDpX24z0lhia647NzMT" version="14.1.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="-1622" dy="-464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B3B3B3" math="0" shadow="0">
       <root>
@@ -91,22 +91,22 @@
         <mxCell id="U7ZelPJluDHWmrLzTlLS-765" value="野狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2477.5" y="1046.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U7ZelPJluDHWmrLzTlLS-766" value="明星员工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-766" value="明星员工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2710" y="1046.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-770" value="牛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2605" y="1162" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U7ZelPJluDHWmrLzTlLS-771" value="小白兔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-771" value="小白兔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2715" y="1282" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U7ZelPJluDHWmrLzTlLS-772" value="狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-772" value="狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2482.5" y="1282" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U7ZelPJluDHWmrLzTlLS-773" value="牛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-773" value="牛" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2605" y="1162" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U7ZelPJluDHWmrLzTlLS-774" value="野狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-774" value="&lt;b&gt;野狗&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="2477.5" y="1046.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-776" value="备注：&lt;br&gt;1.野狗：业务能力强，价值观不好的员工，未达目的不折手段。&lt;br&gt;2.明星员工：业务能力强，员工价值观符合公司价值观&lt;br&gt;3.狗：业务能力低，价值观也不好。&lt;br&gt;4.小白兔：价值观好，但是能力不行&lt;br&gt;5.牛：能力和价值观都在中等左右&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;公司选用人选：&lt;br&gt;2，5类员工是公司重点培养对象，4类员工的后期表现是否能进阶到5，如果能就留，1，3，4不是公司考虑对象，&lt;br&gt;1类员工适合创业型公司，给公司在短期内创造收益，不是和大型公司&lt;br&gt;4类员工可以先培训一段时间后看情况而定&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#FFFFFF;fontSize=16;fontColor=#B9E0A5;align=left;" vertex="1" parent="1">
