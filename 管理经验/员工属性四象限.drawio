@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T03:52:26.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_L8Oj0k4VfUFrqNyfdvq" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-20T03:56:56.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mlTGeS-vnMRHSMMeOC1U" version="14.1.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="-1622" dy="-426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B3B3B3" math="0" shadow="0">
       <root>
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-774" value="野狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="2477.5" y="1294.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-776" value="备注：&lt;br&gt;1.野狗：业务能力强，价值观不好的员工，未达目的不折手段。&lt;br&gt;2.明星员工：业务能力强，员工价值观符合公司价值观&lt;br&gt;3.狗：业务能力低，价值观也不好。&lt;br&gt;4.小白兔：价值观好，但是能力不行&lt;br&gt;5.牛：能力和价值观都在中等左右&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#FFFFFF;fontSize=16;fontColor=#B9E0A5;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="1306" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
