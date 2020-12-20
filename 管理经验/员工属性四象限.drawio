@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T03:48:07.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fGNiYcIWMEQnjnA_1Y60" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-20T03:48:53.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="sVy2H9FjcnCDy_LHpwIT" version="14.1.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="-1622" dy="-449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -109,11 +109,23 @@
         <mxCell id="U7ZelPJluDHWmrLzTlLS-765" value="野狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2477.5" y="1294.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U7ZelPJluDHWmrLzTlLS-766" value="明星员工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-766" value="明星员工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="2710" y="1294.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-770" value="牛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="2605" y="1410" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-771" value="小白兔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="2715" y="1530" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-772" value="狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="2482.5" y="1530" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-773" value="牛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="1410" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-774" value="野狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="2477.5" y="1294.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
