@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T04:22:56.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="L86uNnC_sO2GxFOgQ-lf" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-20T04:26:52.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5M9TP79rH-z8nvaaDqZ3" version="14.1.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="-1622" dy="-464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B3B3B3" math="0" shadow="0">
+    <mxGraphModel dx="-1622" dy="-488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B3B3B3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,8 +112,8 @@
         <mxCell id="U7ZelPJluDHWmrLzTlLS-797" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontSize=12;fontColor=#B9E0A5;align=left;" vertex="1" parent="1">
           <mxGeometry x="2730" y="1247.5" width="20" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="U7ZelPJluDHWmrLzTlLS-802" value="备注：&#xa;1.野狗：业务能力强，价值观不好的员工，未达目的不折手段。&#xa;2.明星员工：业务能力强，员工价值观符合公司价值观&#xa;3.狗：业务能力低，价值观也不好。&#xa;4.小白兔：价值观好，但是能力不行&#xa;5.牛：能力和价值观都在中等左右&#xa;   &#xa;&#xa;公司选用人选：&#xa;2，5类员工是公司重点培养对象，4类员工的后期表现是否能进阶到5，如果能就留，1，3，4不是公司考虑对象，&#xa;1类员工适合创业型公司，给公司在短期内创造收益，不是和大型公司&#xa;4类员工可以先培训一段时间后看情况而定&#xa;&#xa;" style="text;fontSize=15;fontColor=#B9E0A5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2857.5" y="1011.5" width="550" height="220" as="geometry" />
+        <mxCell id="U7ZelPJluDHWmrLzTlLS-802" value="备注：&#xa;1.野狗：业务能力强，价值观不好的员工，未达目的不折手段。&#xa;2.明星员工：业务能力强，员工价值观符合公司价值观&#xa;3.狗：业务能力低，价值观也不好。&#xa;4.小白兔：价值观好，但是能力不行&#xa;5.牛：能力和价值观都在中等左右&#xa;   &#xa;&#xa;公司选用人选：&#xa;       2，5类员工是公司重点培养对象，4类员工的后期表现是否能进阶到5，如果能就留，&#xa;       1，3，4不是公司考虑对象，&#xa;       1类员工适合创业型公司，给公司在短期内创造收益，不是和大型公司&#xa;       4类员工可以先培训一段时间后看情况而定&#xa;&#xa;" style="text;fontSize=15;fontColor=#B9E0A5;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2850" y="1011.5" width="557.5" height="248.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
