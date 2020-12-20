@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T04:06:50.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="b1XYBzvzYDi2KHRT4KTZ" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-20T04:09:54.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="FQEGgFrgSajrg9zs532o" version="14.1.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="-1622" dy="-426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B3B3B3" math="0" shadow="0">
+    <mxGraphModel dx="-1622" dy="-464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B3B3B3" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="727" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="2438.5" y="1601.5" as="sourcePoint" />
-            <mxPoint x="2439" y="1197" as="targetPoint" />
+            <mxPoint x="2438.5" y="1353.5" as="sourcePoint" />
+            <mxPoint x="2439" y="949" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="734" value="" style="edgeStyle=none;html=1;fontColor=#000000;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="2437" y="1601" as="sourcePoint" />
-            <mxPoint x="2889.5" y="1601.31" as="targetPoint" />
+            <mxPoint x="2437" y="1353" as="sourcePoint" />
+            <mxPoint x="2889.5" y="1353.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="735" value="&lt;font color=&quot;#b9e0a5&quot;&gt;公司价值观&lt;/font&gt;" style="text;spacingTop=-5;html=1;fontSize=18;fontStyle=0;points=[];strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2900" y="1582.5" width="80" height="20" as="geometry" />
+          <mxGeometry x="2900" y="1334.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="736" value="&lt;font color=&quot;#b9e0a5&quot;&gt;低&lt;/font&gt;" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[];strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="2497.5" y="1610" width="120" height="30" as="geometry" />
@@ -29,88 +29,88 @@
           <mxGeometry x="2737.5" y="1610" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="745" value="&lt;font color=&quot;#b9e0a5&quot;&gt;业绩/能力&lt;/font&gt;" style="text;spacingTop=-5;html=1;fontSize=18;fontStyle=0;points=[]" parent="1" vertex="1">
-          <mxGeometry x="2397.5" y="1160" width="80" height="20" as="geometry" />
+          <mxGeometry x="2397.5" y="912" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="746" value="&lt;font color=&quot;#b9e0a5&quot;&gt;低&lt;/font&gt;" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[]" parent="1" vertex="1">
-          <mxGeometry x="2397.5" y="1410.0000000000002" width="30" height="129.99999999999977" as="geometry" />
+          <mxGeometry x="2397.5" y="1162.0000000000002" width="30" height="129.99999999999977" as="geometry" />
         </mxCell>
         <mxCell id="747" value="&lt;font color=&quot;#b9e0a5&quot;&gt;中&lt;/font&gt;" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[]" parent="1" vertex="1">
-          <mxGeometry x="2397.5" y="1294.5" width="30" height="129.99999999999977" as="geometry" />
+          <mxGeometry x="2397.5" y="1046.5" width="30" height="129.99999999999977" as="geometry" />
         </mxCell>
         <mxCell id="748" value="&lt;font color=&quot;#b9e0a5&quot;&gt;高&lt;/font&gt;" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontStyle=0;html=1;fontSize=18;points=[]" parent="1" vertex="1">
-          <mxGeometry x="2397.5" y="1176" width="30" height="129.99999999999977" as="geometry" />
+          <mxGeometry x="2397.5" y="928" width="30" height="129.99999999999977" as="geometry" />
         </mxCell>
-        <mxCell id="749" value="评估员工能力四象限" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;html=1;points=[]" parent="1" vertex="1">
-          <mxGeometry x="2437.5" y="854.5" width="810" height="45" as="geometry" />
+        <mxCell id="749" value="评估员工能力四象限" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;html=1;points=[];fontColor=#B9E0A5;" parent="1" vertex="1">
+          <mxGeometry x="2427.5" y="840" width="810" height="45" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-753" value="" style="endArrow=none;html=1;exitX=0.521;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2560.02" y="1609.01" as="sourcePoint" />
-            <mxPoint x="2560" y="1240" as="targetPoint" />
+            <mxPoint x="2560.02" y="1361.01" as="sourcePoint" />
+            <mxPoint x="2560" y="992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-756" value="" style="endArrow=none;html=1;exitX=0.521;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2679.02" y="1601.5" as="sourcePoint" />
-            <mxPoint x="2679" y="1240" as="targetPoint" />
+            <mxPoint x="2679.02" y="1353.5" as="sourcePoint" />
+            <mxPoint x="2679" y="992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-757" value="" style="endArrow=none;html=1;exitX=0.521;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2800.02" y="1601.5" as="sourcePoint" />
-            <mxPoint x="2800" y="1241" as="targetPoint" />
+            <mxPoint x="2800.02" y="1353.5" as="sourcePoint" />
+            <mxPoint x="2800" y="993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-758" value="" style="endArrow=none;html=1;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2440.5" y="1240" as="sourcePoint" />
-            <mxPoint x="2800.5" y="1240" as="targetPoint" />
+            <mxPoint x="2440.5" y="992" as="sourcePoint" />
+            <mxPoint x="2800.5" y="992" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-759" value="" style="endArrow=none;html=1;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2439.5" y="1360" as="sourcePoint" />
-            <mxPoint x="2799.5" y="1360" as="targetPoint" />
+            <mxPoint x="2439.5" y="1112" as="sourcePoint" />
+            <mxPoint x="2799.5" y="1112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-760" value="" style="endArrow=none;html=1;strokeWidth=3;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2438.5" y="1480" as="sourcePoint" />
-            <mxPoint x="2799" y="1480" as="targetPoint" />
+            <mxPoint x="2438.5" y="1232" as="sourcePoint" />
+            <mxPoint x="2799" y="1232" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2618.5" y="1480" />
+              <mxPoint x="2618.5" y="1232" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-763" value="小白兔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2715" y="1530" width="50" height="20" as="geometry" />
+          <mxGeometry x="2715" y="1282" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-764" value="狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2482.5" y="1530" width="30" height="20" as="geometry" />
+          <mxGeometry x="2482.5" y="1282" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-765" value="野狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2477.5" y="1294.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="2477.5" y="1046.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-766" value="明星员工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="2710" y="1294.5" width="60" height="20" as="geometry" />
+          <mxGeometry x="2710" y="1046.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-770" value="牛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="2605" y="1410" width="30" height="20" as="geometry" />
+          <mxGeometry x="2605" y="1162" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-771" value="小白兔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="2715" y="1530" width="50" height="20" as="geometry" />
+          <mxGeometry x="2715" y="1282" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-772" value="狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="2482.5" y="1530" width="30" height="20" as="geometry" />
+          <mxGeometry x="2482.5" y="1282" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-773" value="牛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="2605" y="1410" width="30" height="20" as="geometry" />
+          <mxGeometry x="2605" y="1162" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-774" value="野狗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="2477.5" y="1294.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="2477.5" y="1046.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U7ZelPJluDHWmrLzTlLS-776" value="备注：&lt;br&gt;1.野狗：业务能力强，价值观不好的员工，未达目的不折手段。&lt;br&gt;2.明星员工：业务能力强，员工价值观符合公司价值观&lt;br&gt;3.狗：业务能力低，价值观也不好。&lt;br&gt;4.小白兔：价值观好，但是能力不行&lt;br&gt;5.牛：能力和价值观都在中等左右&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;公司选用人选：&lt;br&gt;2，5类员工是公司重点培养对象，4类员工的后期表现是否能进阶到5，如果能就留，1，3，4不是公司考虑对象，&lt;br&gt;1类员工适合创业型公司，给公司在短期内创造收益，不是和大型公司&lt;br&gt;4类员工可以先培训一段时间后看情况而定&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;strokeColor=#FFFFFF;fontSize=16;fontColor=#B9E0A5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2840" y="1230" width="530" height="345.5" as="geometry" />
+          <mxGeometry x="2840" y="936.5" width="530" height="345.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
