@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T05:39:15.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="BvqfRLHcRareZzzKzzOK" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T05:41:13.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="o4S-giK0yAAaAFCoKkuF" version="14.2.4" type="github">
   <diagram id="lXcrfVVGrMA9aEeiEGAd" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,24 +33,27 @@
         <mxCell id="QCMrL3q-_LH4yGfjp8Oc-19" value="外" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QCMrL3q-_LH4yGfjp8Oc-10" target="QCMrL3q-_LH4yGfjp8Oc-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="onFKZqTKDnlbbtL8t5uv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QCMrL3q-_LH4yGfjp8Oc-10" target="QCMrL3q-_LH4yGfjp8Oc-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="740" />
+              <mxPoint x="990" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="onFKZqTKDnlbbtL8t5uv-4" value="查看，反馈，录入盘面数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="onFKZqTKDnlbbtL8t5uv-3">
+          <mxGeometry x="0.0756" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QCMrL3q-_LH4yGfjp8Oc-10" value="点价员处理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QCMrL3q-_LH4yGfjp8Oc-32" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QCMrL3q-_LH4yGfjp8Oc-12" target="QCMrL3q-_LH4yGfjp8Oc-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QCMrL3q-_LH4yGfjp8Oc-35" value="录入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QCMrL3q-_LH4yGfjp8Oc-32" vertex="1" connectable="0">
-          <mxGeometry x="-0.1722" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QCMrL3q-_LH4yGfjp8Oc-12" value="油厂盘面" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QCMrL3q-_LH4yGfjp8Oc-31" value="录入" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QCMrL3q-_LH4yGfjp8Oc-16" target="QCMrL3q-_LH4yGfjp8Oc-29" edge="1">
-          <mxGeometry x="-0.284" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QCMrL3q-_LH4yGfjp8Oc-16" value="公司盘面" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="920" width="120" height="60" as="geometry" />
