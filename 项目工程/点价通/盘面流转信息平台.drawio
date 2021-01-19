@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T06:05:06.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="FRXLasxdUfk9xSnWkcvR" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T06:05:21.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="F7FtaCPk2CjdrFdu7Pq6" version="14.2.4" type="github">
   <diagram id="lXcrfVVGrMA9aEeiEGAd" name="Page-1">
     <mxGraphModel dx="1422" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="QCMrL3q-_LH4yGfjp8Oc-26" value="点价数据（客户）" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QCMrL3q-_LH4yGfjp8Oc-29" value="盘面信息流传平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="QCMrL3q-_LH4yGfjp8Oc-29" value="盘面信息流传平台" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="930" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="onFKZqTKDnlbbtL8t5uv-18" value="&lt;span style=&quot;color: rgb(24 , 26 , 27) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(216 , 214 , 210) ; display: inline ; float: none&quot;&gt;1.头寸表：业务人员根据系统的数据生成对上家的点价信息&lt;br&gt;&lt;br&gt;2.盘面信息流转平台方便点价员及时处理点价单信息&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
