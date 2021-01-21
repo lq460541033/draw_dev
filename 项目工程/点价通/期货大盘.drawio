@@ -1,31 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T07:23:33.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="bqn_4TcTNCBEMIk-4KWK" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T07:29:09.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-5xZlyZmLg2IrC11J3kN" version="14.2.4" type="github">
   <diagram id="QEkaDKNe5u3lcsSj1PU2" name="Page-1">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-1" value="大盘" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
-          <mxGeometry x="210" y="90" width="260" height="810" as="geometry">
-            <mxRectangle x="150" y="105" width="60" height="20" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-17" value="建仓" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-2" value="买" style="swimlane;html=1;startSize=20;" vertex="1" parent="sF3u-E_3Z-FlMxOM7Llp-1">
-          <mxGeometry y="20" width="140" height="790" as="geometry" />
+        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-7" value="买平" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-5" value="买开" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="sF3u-E_3Z-FlMxOM7Llp-2">
-          <mxGeometry x="35" y="50" width="70" height="30" as="geometry" />
+        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-8" value="卖平" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-6" value="卖开" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="sF3u-E_3Z-FlMxOM7Llp-2">
-          <mxGeometry x="35" y="120" width="70" height="30" as="geometry" />
+        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sF3u-E_3Z-FlMxOM7Llp-6" target="sF3u-E_3Z-FlMxOM7Llp-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-3" value="卖" style="swimlane;html=1;startSize=20;" vertex="1" parent="sF3u-E_3Z-FlMxOM7Llp-1">
-          <mxGeometry x="140" y="20" width="120" height="790" as="geometry" />
+        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-6" value="卖开" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-7" value="买平" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="sF3u-E_3Z-FlMxOM7Llp-3">
-          <mxGeometry x="25" y="50" width="70" height="30" as="geometry" />
+        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-5" value="买开" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-8" value="卖平" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="sF3u-E_3Z-FlMxOM7Llp-3">
-          <mxGeometry x="25" y="120" width="70" height="30" as="geometry" />
+        <mxCell id="sF3u-E_3Z-FlMxOM7Llp-18" value="平仓" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
