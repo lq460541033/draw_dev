@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T10:02:07.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="H_s54UhK4dUBfWYtbr0c" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T10:05:34.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="uA7j7yVwwwqyaJCTba7h" version="14.6.13" type="github">
   <diagram id="S2sxaSUKV-EeUd9-0h2x" name="Page-1">
     <mxGraphModel dx="1792" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,14 +73,53 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-29" target="fYUXEFIVG2v1XULAEbU8-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="-160" />
+              <mxPoint x="-280" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fYUXEFIVG2v1XULAEbU8-29" value="是否购买报告" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="-270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-32" target="fYUXEFIVG2v1XULAEbU8-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fYUXEFIVG2v1XULAEbU8-32" value="企业详细信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYUXEFIVG2v1XULAEbU8-34" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;企业详情信息（毛玻璃）&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-39" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;发送请求到icpm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-43" target="fYUXEFIVG2v1XULAEbU8-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-47" value="点击跳转" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fYUXEFIVG2v1XULAEbU8-46">
+          <mxGeometry x="-0.2029" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-43" value="股东模块" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-45" target="fYUXEFIVG2v1XULAEbU8-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-50" value="选择股东" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fYUXEFIVG2v1XULAEbU8-49">
+          <mxGeometry x="-0.3592" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-45" value="股东列表" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-48" value="股东穿透图" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
