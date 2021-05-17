@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T08:05:25.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PQ1TT8HPZFuVWM1ew7Xm" version="14.6.13" type="github"><diagram id="S2sxaSUKV-EeUd9-0h2x" name="Page-1">jZJNb4MwDIZ/DcdKhagUjh1lm6ZOmsSh0m4Z8Ui0QFCaLrBfvzAcPlRV2iWyH3/EfpOAZHX3pGnLXxUDGURb1gXkGERRGu/cOYB+BOE+TkZSacGQzaAQP4Bwi/QqGFxWiUYpaUS7hqVqGijNilGtlV2nfSq5vrWlFdyAoqTylp4FM3ykSbSf+TOIivubwzgdIzX1ybjJhVOm7AKRPCCZVsqMVt1lIAfxvC5j3eOd6DSYhsb8p+A9hMPbx0tnk7g6nYv863A8bbDLN5VXXBiHNb1XwHVxYjvnwXJhoGhpOUSse2/HuKml80JnYivQBrq7M4bT5u7LgKrB6N6l+IIExcLvstl5YGfxU0R8oTtBRvG5q6n1rIgzUBTvzuL/xRZfmOS/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-17T09:59:23.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="1jSbcfb_o5865K326Z5y" version="14.6.13" type="github">
+  <diagram id="S2sxaSUKV-EeUd9-0h2x" name="Page-1">
+    <mxGraphModel dx="1792" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-1" target="fYUXEFIVG2v1XULAEbU8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-1" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;查询企业信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-10" target="fYUXEFIVG2v1XULAEbU8-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-430" y="-590" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-26" value="&lt;span style=&quot;font-size: 12px ; background-color: rgb(216 , 214 , 210)&quot;&gt;选择企业基础信息&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fYUXEFIVG2v1XULAEbU8-13">
+          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-10" value="企业信息列表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-16" target="fYUXEFIVG2v1XULAEbU8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-22" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fYUXEFIVG2v1XULAEbU8-21">
+          <mxGeometry x="-0.2254" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-16" target="fYUXEFIVG2v1XULAEbU8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fYUXEFIVG2v1XULAEbU8-24">
+          <mxGeometry x="-0.2476" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-16" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="-460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-20" value="企业基础信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fYUXEFIVG2v1XULAEbU8-23" value="企业基础信息（毛玻璃）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
