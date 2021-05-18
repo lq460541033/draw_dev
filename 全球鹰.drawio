@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T03:12:39.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="5psUC4QJ_owo4Z13npI5" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T03:13:20.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2eFqFl1EGLIxqbWtCFAN" version="14.6.13" type="github">
   <diagram id="S2sxaSUKV-EeUd9-0h2x" name="Page-1">
     <mxGraphModel dx="2619" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,6 +168,11 @@
         </mxCell>
         <mxCell id="Mr0DY7hYHpQqgQXHJw_h-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.585;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fYUXEFIVG2v1XULAEbU8-45" target="Mr0DY7hYHpQqgQXHJw_h-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr0DY7hYHpQqgQXHJw_h-19" value="选择股东" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mr0DY7hYHpQqgQXHJw_h-18">
+          <mxGeometry x="-0.2726" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fYUXEFIVG2v1XULAEbU8-45" value="股东列表" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="160" width="120" height="60" as="geometry" />
