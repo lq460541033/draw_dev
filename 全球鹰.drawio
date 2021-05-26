@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T03:34:57.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="a0e7BZQyPpqdPn2_8pHT" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T03:35:35.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qQY5sS9_5ijxofdRB8lS" version="14.7.0" type="github">
   <diagram id="S2sxaSUKV-EeUd9-0h2x" name="Page-1">
     <mxGraphModel dx="2619" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,7 +393,7 @@
         <mxCell id="gj9dVbflPKng5u7m4q0e-59" value="注册错误次数是否&amp;gt;5" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="-350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gj9dVbflPKng5u7m4q0e-60" value="账号锁定半小时" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="gj9dVbflPKng5u7m4q0e-60" value="提示：请勿频繁操作！" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="-340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gj9dVbflPKng5u7m4q0e-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gj9dVbflPKng5u7m4q0e-61" target="gj9dVbflPKng5u7m4q0e-62" edge="1">
