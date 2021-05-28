@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T03:33:25.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Ji2Zji75v9i3drUi9JrL" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T03:33:49.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="D8xcy5gzj0MQRYBaBs6K" version="14.7.1" type="github">
   <diagram id="S2sxaSUKV-EeUd9-0h2x" name="Page-1">
     <mxGraphModel dx="2619" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,6 +447,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-zuYhUxL4F9_CrsHg1zi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EalMUi_YqHYUy-O-EBrm-5" target="-zuYhUxL4F9_CrsHg1zi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EalMUi_YqHYUy-O-EBrm-5" value="支付" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -455,6 +458,9 @@
         </mxCell>
         <mxCell id="EalMUi_YqHYUy-O-EBrm-10" value="支付宝扫码支付" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-zuYhUxL4F9_CrsHg1zi-6" value="数据流" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
