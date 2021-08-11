@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T09:34:27.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" version="14.9.4" etag="GOHpsBzR9_iMVwWXWABQ" type="github"><diagram id="5HynIGLkqAYf7Gfc7mX5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-11T08:43:15.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="pUaGsfgFpin-GjGIhhRh" version="14.9.5" type="github">
+  <diagram id="5HynIGLkqAYf7Gfc7mX5" name="Page-1">
+    <mxGraphModel dx="965" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-1" target="PCKuRD1ve3etC8ZRLTbl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-1" value="启动一个Java项目都做了什么？&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-2" target="PCKuRD1ve3etC8ZRLTbl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-2" value="启动类（类加载）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-4" target="PCKuRD1ve3etC8ZRLTbl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-4" value="启动类（类加载）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-6" target="PCKuRD1ve3etC8ZRLTbl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-6" value="类加载有些过程？" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-8" target="PCKuRD1ve3etC8ZRLTbl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-8" value="加载" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-10" target="PCKuRD1ve3etC8ZRLTbl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-10" value="验证" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-12" target="PCKuRD1ve3etC8ZRLTbl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-12" value="准备" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-14" target="PCKuRD1ve3etC8ZRLTbl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-14" value="解析" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-16" value="初始化" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
