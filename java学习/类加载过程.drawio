@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T08:50:27.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="eiORTL46W1-6FdwPHBZr" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-11T09:27:47.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="usELG8zm2fBEG5EEYbgd" version="14.9.5" type="github">
   <diagram id="5HynIGLkqAYf7Gfc7mX5" name="Page-1">
     <mxGraphModel dx="1128" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,6 +43,9 @@
         <mxCell id="PCKuRD1ve3etC8ZRLTbl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-10" target="PCKuRD1ve3etC8ZRLTbl-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PCKuRD1ve3etC8ZRLTbl-10" target="PCKuRD1ve3etC8ZRLTbl-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PCKuRD1ve3etC8ZRLTbl-10" value="验证" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="940" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,8 +67,11 @@
         <mxCell id="PCKuRD1ve3etC8ZRLTbl-18" value="javac命令.java文件编译成.class文件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PCKuRD1ve3etC8ZRLTbl-22" value="&lt;span&gt;将class文件加载到jvm（方法区）中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1080" width="120" height="60" as="geometry" />
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-22" value="&lt;span&gt;将class文件加载到jvm（方法区）中&lt;br&gt;静态的存储结构转化成方法区的运行时数结构&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1080" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PCKuRD1ve3etC8ZRLTbl-24" value="验证class文件是否符合虚拟机要求" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
