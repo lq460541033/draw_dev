@@ -1,0 +1,6 @@
+1：脚本无法执行
+	换一个脚本
+2：关闭防火墙	
+	关闭防火墙为了好使用不同的端口
+3：关闭selinux
+	不关闭会报错：connect() to 192.168.15.101:8080 failed (13: Permission denied) while connect to upstream

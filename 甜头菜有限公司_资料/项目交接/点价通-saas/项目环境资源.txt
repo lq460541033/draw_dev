@@ -1,0 +1,25 @@
+正式环境：
+地址 rm-bp1ivsox8fwv763mzto.mysql.rds.aliyuncs.com  端口 3306
+数据库 xinke_price_saas
+账号                      密码                备注
+xinke_price_saas_admin    xiN@H0p&8!9+n       仅限公司网络使用
+xinke_price_saas_read     xiR@H0p&r!9+De      只读
+xinke_price_saas_write    xiw@H0p&r!9+e1T     读写
+
+系统	            配置	                        		远程端口	    网址
+后端	            端口（80），jdk1.8，zip解压命令	 10322	    https://public.wx.efunong.com/price-back/	
+前端（PC端）	 端口（80），域名，nginx,zip解压命令	10022  	    https://public.wx.efunong.com/price-front-pc/
+前端（移动端）	    端口（80），域名，nginx,zip解压命令	10122	    https://public.wx.efunong.com/price-front-mp/
+前端（移动端测试）	端口（80），域名，nginx,zip解压命令	10222	    https://public.wx.efunong.com/price-front-test/
+
+
+
+测试环境：
+服务器
+点价通 ：   前后端：192.168.0.27    "11022:22"     "21080:80"  “21081:8080”     root  123456 
+
+访问地址：
+http://192.168.0.27:21080/
+账号密码：
+ttcadmin
+123456

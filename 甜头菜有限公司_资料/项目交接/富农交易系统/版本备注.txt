@@ -1,0 +1,8 @@
+项目名称:fresh 
+模块：web-weixin，service-link
+2021-02-04
+    dryad_v1.0.0.0:  线上验收已通过
+    	fresh后端分支 ：dryad_v1.0.0.0
+    	前端分支（标签名）：dryad_v1.0.0.0
+    	数据库：dryad_v1.0.0.0->db->fresh.sql
+	需求：https://www.tapd.cn/34411133/prong/stories/stories_list

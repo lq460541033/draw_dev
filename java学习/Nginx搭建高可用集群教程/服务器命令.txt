@@ -1,0 +1,56 @@
+firewalld
+	# 启动 防火墙
+	systemctl start firewalld
+	# 关闭防火墙
+	systemctl stop firewalld
+	# 开放服务器端口 465
+	firewall-cmd --zone=public --add-port=465/tcp --permanent
+	# 查看服务器已开放端口
+	firewall-cmd --list-ports
+
+nginx
+	#  重启nginx
+	systemctl restart  nginx.service
+	#  查看nginx状态
+	systemctl status  nginx.service
+	#  停止nginx状态
+	systemctl stop  nginx.service
+	#加入开机启动
+	systemctl enable nginx   
+	# 查看端口使用
+	netstat -lntp
+	#检查配置文件
+ 	nginx -t 
+	#查看nginx 版本
+ 	nginx -v
+
+keepalived
+	# 下载keepalived 
+	yum install keepalived -y
+	# 查看安装生成的文件
+	rpm -ql keepalived
+
+	#  启动keepalived
+	systemctl start keepalived.service
+	systemctl status  keepalived.service
+	systemctl stop  keepalived.service
+	systemctl restart  keepalived.service
+
+# 打开日志观察: 
+tail -f /var/log/messages
+
+重启reboot
+
+配置nginx https
+
+# 启动nacos standalone代表着单机模式运行
+sh startup.sh -m standalone
+
+
+Linu环境解决中文名文件访问出错的方法
+	# 将非utf-8的编码改成utf-8。安装工具convmv，由它去转换编码。
+	yum install convmv -y
+	# 将pdf 文件中的中文名称转码 GBK转 UTF8
+	convmv -f GBK -t UTF8 -r --notest webapp/vue/dist/static/pdf
+	参考文献：
+	https://blog.csdn.net/qq_41397201/article/details/87708625
