@@ -1,0 +1,363 @@
+/* html {
+    overflow: overlay;
+}
+html.responseEnable {
+    overflow: auto;
+}
+body {
+    display: none;
+    opacity: 0;
+} */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+    background: #f2f2f2;
+    padding-right: 2px;
+}
+::-webkit-scrollbar-thumb {
+    background: #b4bbc5;
+    border-radius: 10px;
+    border: 0;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* ----------------热区----------------start */
+.legacyPulsateBorder {
+    box-shadow: none;
+}
+.legacyPulsateBorder::after {
+    box-sizing: border-box;
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    pointer-events: none;
+    transition: all ease 0.8s;
+    background: rgba(87, 208, 146, 0.4);
+    opacity: 0;
+    outline: 1px solid rgba(87, 208, 146, 1);
+}
+.legacyPulsateBorder.lanhuBoxLighHight::after {
+    opacity: 1;
+}
+/* ----------------热区----------------end */
+
+/* ----------------拖拽小手----------------start */
+html.lanhuGrab,
+html.lanhuGrab body {
+    cursor: grab;
+    user-select: none;
+}
+html.lanhuGrab.lanhuMousedown,
+html.lanhuGrab.lanhuMousedown body {
+    cursor: grabbing;
+}
+/* ----------------拖拽小手----------------end */
+
+/* ----------------notes----------------start */
+
+/* notes弹窗 */
+.lan_notesDialog {
+    position: absolute;
+    z-index: 1002;
+    display: flex;
+    box-sizing: border-box;
+    width: 300px;
+    min-height: 150px;
+    line-height: normal;
+    padding: 40px 0 10px 0;
+    border: none;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.08), 0px 16px 24px 2px rgba(0, 0, 0, 0.05),
+        0px 6px 20px 5px rgba(40, 120, 255, 0.1);
+    cursor: initial;
+    border-radius: 2px;
+    flex-direction: column;
+    font-size: 14px;
+    word-break: break-all;
+}
+.lan_notesDialog .lan_notes::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+    background: transparent;
+    padding-right: 2px;
+}
+
+.lan_notesDialog .lan_notes::-webkit-scrollbar-thumb {
+    /* border: 1px solid transparent; */
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    border: 0;
+}
+.lan_notesDialog .lan_notes::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.4);
+}
+.lan_notesDialog .lan_notes {
+    overflow: auto;
+}
+.lan_notesDialog .lan_noteItem {
+    position: relative;
+    box-sizing: border-box;
+    padding: 35px 24px 15px;
+    border-bottom: 1px dashed #cfd1d4;
+}
+.lan_notesDialog .lan_noteItem:last-child {
+    border-bottom: none;
+}
+.lan_notesDialog .lan_noteFoot {
+    position: absolute;
+    top: 15px;
+    left: 24px;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    background: rgba(253, 183, 52, 1);
+    border-radius: 2px;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+}
+
+.lan_notesDialog .lan_noteFootImage {
+    position: absolute;
+    top: 15px;
+    left: 24px;
+    width: 16px;
+    height: 15px;
+    padding-bottom: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.lan_notesDialog .lan_noteFootImage > img {
+    width: 100%;
+}
+
+.lan_notesDialog .lan_noteLabel {
+    position: absolute;
+    top: 15px;
+    right: 24px;
+    width: 260px;
+    height: 20px;
+    line-height: 20px;
+    text-align: right;
+    font-weight: bolder;
+    color: #18212f;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-all;
+}
+.lan_notesDialog .lan_noteName {
+    line-height: 20px;
+    font-weight: bolder;
+    color: rgba(24, 33, 47, 1);
+}
+
+.lan_notesDialog .lan_note {
+    margin-top: 14px;
+    line-height: 24px;
+    color: rgba(74, 74, 74, 1);
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+.lan_notesDialog .lan_noteField {
+    margin-top: 16px;
+}
+.lan_notesDialog .lan_closeBtn {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    display: flex;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+.lan_notesDialog .lan_closeBtn:after,
+.lan_notesDialog .lan_closeBtn:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #cfd1d4;
+    border-radius: 4px;
+}
+.lan_notesDialog .lan_closeBtn:after {
+    width: 20px;
+    height: 2px;
+}
+.lan_notesDialog .lan_closeBtn:before {
+    width: 2px;
+    height: 20px;
+}
+/* axure7,8 dialog */
+.ui-dialog {
+    pointer-events: none;
+    opacity: 0;
+}
+.ui-dialog.lan_dialogShow {
+    pointer-events: initial;
+    opacity: 1;
+}
+
+/* notes高亮 */
+.lan_noteSelected {
+    box-shadow: 0 0 10px 3px #138cdd;
+}
+
+/* ----------------notes----------------end */
+
+/* ----------------dot----------------start */
+
+html.lan_doting,
+html.lan_doting * {
+    cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAWCAYAAAArdgcFAAACUElEQVRIS7WVzWsTQRjGn5ndfJQkBTWJh1rBHpJWoijYgx4UPFT0II1UPeTmB1T0puaPiHpTLPhx68EPTPFgsYigBy8KSg39OkRo7cFsqmASTNPNjLzpTljbhCyJHRhmd5j9vc+8O+8zDFvYmI2tnmm0zzsNLwFQp1YbNwJ53+XZPubpDklhOg7AuC7l6m8j+2AgC0BYcKlU0qj3J8t3wD3XnErdtE6s3p1Lea8DMCmAgmvB04/CwYEL38HaSolKhszPPt6Vf3kxB6BKcE6qe8+/jvj2DH1tW7X1Yenb1L6lJycWSL2Cu3viL6KBaPwLrfG6gKEYwB1kXUhgKgOU19bphfn0geX0mXkAFfpcA+DuGX4aDfSf/UwLtvuA0eOA5gBelcDYW+BnyYLPPTu4PHGuObyT1BRawbu7gMThxmmZnAayRvPwLeF+DzAy2Bj+ZgZYXOkAvqVp+Z9wOufu0NFU744jN+l8dtRWPtyKGO+TS+ooEtwFoCtyozjOdd+pdunCLL1auO1PAPgDYE2Vv07q4d/p2x1/foxp/hCESUEhIZg3vH+U6969KqgwyzPl3PQYA193Qa4LWS0ai+mRdyj+oBNfURVatwBrB7QLKiyC14psW+xSMHzy3jjT3DFZrWRyk1cTvzIP8+QflgOSE9Iz1Sl1Mi5ht1yCUSew2pGacwUOXQmGBpPDxsfUROHTfQIThKB1i7UC1OdaXRb2XVHq6J1SQcpq6jZcEA0vi2b/0O73tCPVVDrst88mhgNr+sfflXIFUkobinMCb/dk4i/3gOM1rheS1AAAAABJRU5ErkJggg==),
+        crosshair !important;
+    user-select: none;
+}
+html.lan_doting #lan_dotBox {
+    pointer-events: none !important;
+}
+
+html.lan_doting iframe,
+body.lan_dragging iframe {
+    pointer-events: none;
+}
+
+#lan_dotBox {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+}
+
+.lan_dotItem {
+    cursor: pointer;
+    position: absolute;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    color: #fff;
+    width: 38px !important;
+    height: 38px !important;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Helvetica, Arial,
+        "Hiragino Sans GB", "Source Han Sans", "Noto Sans CJK Sc", "Microsoft YaHei", "Microsoft Jhenghei", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    box-shadow: none;
+    outline: none;
+    background: none;
+    user-select: none;
+    opacity: 1;
+}
+.lan_dotItem > .lan_dotFn {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2;
+    display: inline-block;
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    border: 2px solid white;
+    background: linear-gradient(180deg, #ff8181 0%, #ef1010 100%);
+    text-align: center;
+    border-radius: 100%;
+    box-shadow: 0px 5px 8px 0px rgba(0, 0, 0, 0.3);
+    font-size: 20px;
+    pointer-events: none;
+    color: #fff;
+    user-select: none;
+    opacity: 1;
+}
+.lan_dotItem > .lan_dotRect {
+    right: 19px;
+    bottom: 19px;
+    border: 2px solid red;
+    position: absolute;
+    z-index: 0;
+    pointer-events: none;
+}
+.lan_dotItem.alreadyRead > .lan_dotFn {
+    background: #9fa2a8;
+}
+.lan_dotItem.alreadyRead > .lan_dotRect {
+    border: 2px solid #9fa2a8;
+}
+.lan_dotElHover::before {
+    box-sizing: border-box;
+    content: "";
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    pointer-events: none;
+    background: rgba(196, 239, 219, 0.3);
+}
+.lan_dotSelect::before {
+    box-sizing: border-box;
+    content: "";
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    pointer-events: none;
+    background: rgba(196, 239, 219, 0.5);
+}
+.lan_dotSelectOpen::after,
+.lan_dotSelectOpen.legacyPulsateBorder::after {
+    transition: all ease 0.8s;
+    box-sizing: border-box;
+    content: "";
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    pointer-events: none;
+    box-shadow: 0px 3px 6px 0px rgba(40, 120, 255, 0.5), 0px -3px 6px 0px rgba(40, 120, 255, 0.6);
+    opacity: 1 !important;
+    outline: none;
+    background: none;
+    outline: none;
+}
+
+#lan_dotCreateTip {
+    position: fixed;
+    width: 120px;
+    line-height: 16px;
+    padding: 8px;
+    border-radius: 4px;
+    background: rgba(81, 146, 255, 1);
+    color: #fff;
+    font-size: 12px;
+    pointer-events: none;
+    display: none;
+    z-index: 99;
+    font-family: "PingFang SC", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Helvetica, Arial,
+        "Hiragino Sans GB", "Source Han Sans", "Noto Sans CJK Sc", "Microsoft YaHei", "Microsoft Jhenghei", sans-serif;
+}
+#lan_dotCreateTip.en {
+    width: 150px;
+}
+html.lan_doting #lan_dotCreateTip {
+    display: block;
+}
+/* ----------------dot----------------end */
