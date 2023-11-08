@@ -1,12 +1,288 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5116e895-2ed5-4405-b44d-6c2a6b7d4aae" name="Default Changelist" comment="上线计划">
-      <change afterPath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100.rar" afterDir="false" />
+    <list default="true" id="5116e895-2ed5-4405-b44d-6c2a6b7d4aae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/全球鹰" beforeDir="false" afterPath="$PROJECT_DIR$/流程图/全球鹰" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/全球鹰-v1.0.2.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/流程图/全球鹰-v1.0.2.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/全球鹰.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/流程图/全球鹰.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/1021.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/3077123.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/~$富农找车项目管理排期表.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/准备工作.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/2d960ce811115f3d670d31d1d0535fd1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/46c93d938a856c9c07f0b4ca61ba0f36.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/WdatePicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/WdatePicker.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/analytics.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/axios.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/axureMapping.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/axureStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/black-list.bd3057ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/build-index.0f9acf8d.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/build-index.65e16c64.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/build-index.mob.b6b15606.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__03138ee639dd721ce4cd266fb90c0672.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__0480d329f2e3a5029139acd3e0626fec.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__09a748355d48e5b4356cac45dfc464c7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__0b5654a9f831ebf515f67be5fcf0e4c8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__0c1b42a04bda46491ded2078241ad57d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__0e2a1e34d85d7bf05ad04c002eacb74b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__0ea4091b30c7565c91662f68c453deac.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__0eae9a3580a09d19102722dc0401f07c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__0ed0758216d6ab950d8b265a5a90a7df.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__13de12bbb8c4b554bd05f6b2fe03d606.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__15e886d5897358c1469c60d7efe82fe1.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__15eeb6ed4a688cda5904557e7325b442.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__17ae44f742fb2f9d4d89541beb23fe86.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__18859df640ca863539680d18fd43baef.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__19397b50b847137e63202ce63835229b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__1c665155f59f09c271a66e588f07ad71.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__1c9c64a8df93b03e5c10d1c00eb30fd9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__1cc4578941000012b6398562b79ea8d1.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__1e1e8fc994ddcfa9e678cba8ea9d0af8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__1eef9ec88ae06613313c6b66ee4c7f4e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__1f9bd826fb58c3e04b7f7d64db773312.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__221029cb91dc8cfc059e48dc345d94e8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__23749ec9ec79cb5a8fcc3808bd8da722.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__237b97b157493942e107f23ba6f9ec59.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__24f53183dd2555e5b72bd7f4167fd1b3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__251297ebab44544168c8b8ddb3a23171.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__252f6b56225550df16f1ec3effb7856e.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__274f4a8ac5bf375e1b98f4477326de3f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__29bddf9aa2418c2ec12b7444de8387d7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__2bafc61a47a7156bf56bb3a9cb6a59a2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__2ca516811bed2e119bde9675c50aed88.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__2d610c72c075010e02b2bbe77e0ea5b6.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__2da3add117e55605745b14b8af68e2ae.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__2da45f29684113a22eecdde591af2603.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__2f85062795841bf3c93b94103dac404a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__31f19b595804edb66088040197fa8e29.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__329e8d9e0b86db894493a16bf9ccee33.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__32ec40189f85a00768711ed5d4d71b94.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__344daca4bebc036a2cdbb8e14814f1f0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__345b5840f851ee339b56f2aed198e626.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__34da3677fa9bc8ab73d15fa9ad4107af.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__350e8455426ee9c1eb09f32535120a73.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__3738853e06630b54d94d67ea9e431f4b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__396177f45522d9837fdd58db1f8a4cef.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__3aa920df49ba448c399bc5d961eb6d64.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__3ad713acd00975c0fffff3b8cd81e17b.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__3be549051e628d4c26aa49ca04e0028d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__3dcd54abc308b81f6c6ec15322bfccfb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__461477da9b6f2f989472306f4c6ce708.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__4703a723a227a12dfa8602994a1201eb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__473b2e536e061d55706170b296ec08e9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__47a50d2174189618f9522a2da39c6038.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__49531597c0bf749133105f9d7096d7f2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__4caaf402ee44d99c993371c4b8a5f0f6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__4f12972c9f4925459a1e290c33a3666a.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__4f2d86cd4c62241b000a87c63965b8b0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__4fc2625902f3f5770f151063b4afe6af.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__4fd8d755bb12eb4c3ba5151014f8e1e1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__50c9eba928da30da9f0aec5c02d870f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__50e82e823e97f55a116d8d783f786a87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__5330c2560d58d5ca03d082be99e74986.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__53dced49fb57b8fc41d03b9b14954fce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__55eb98aca03e4c500bb8b7105278f370.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__5705a17852c771fe5b2ad7d726a665f2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__57d223b3fe40197176057a91b80eb6fa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__5e3be69764d4a2d5aa0847b5288e1595.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__5f0a33e9eccf16dff097958b835523ae.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__618b39672b1d6bfaf4a316e61b365c50.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__61a1ccba21c50961c30d55ecf544a344.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__620e74d0be2065ebe1e53ff48982d37f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__631613b18571aa2068421a74a49b853a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__637eef810dc10905ecdb21a839726f75.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__6424b4078b9c897cec60749c5b80ab27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__659020cf3a766ea56b0f14a312cc0a6f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__65b3e97a53c8a1bc95a8358b6ff2162c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__65d5a9ea8047097750365e202464aab3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__6636dc8cbac60614d518a8ed0446b5b6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__6849a5ea2db26dba7e7449a2e5a68b85.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__6aa18ef52d17c25d0a9f0a05e323d837.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__71793dc892cdcf2729a062c37db20e2a.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__72d2e13f91a84fad1ef16a2f9bc49e22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__747c6bd61b8c01fedd9140f5da5efe53.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__7632c43f8a7f1672487d0c8e13145015.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__76e2d288a91328bf217c71aa98be4601.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__795745467c2d7cda0c6768e18aed2e98.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__7a4d7dd6a7f1d83a1e46ee51c8340660.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__7c4409812c09aa7dc2ff9654f948fec9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__7f15247a64fa983e0df049d6d80129b2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__832757bbd647c2f1e5b853e78cb22523.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__83424b8da40fa483cfafd5a4f8218cb1.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8470573aeae9f4bec2dc7b1487d8638d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__880a0d2bd51ed0cb473100e68b40d91f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8977021a4ec4b52d34d43cd0836ed845.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__89f276c3a64245d4ad89b4a26dd37aae.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8a10db53336c8cea125f3fb8a3571e98.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8c7134a99a3e324459e93f21aa5b02d5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8c825519c72a040ea14e30745954edb8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8d564a955dc5ad9d684b7cf8f8853ca2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8eb3f57679024911e70c53eaeaac82df.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8ec5884c16c2857db7439a336ac72b8c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__8f5974925214ca784b8199dd6963ac5b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__903b21e9e61fd4d41383bec6aba24a60.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__90e2f47d5fb0a554c55c707590dbd88d.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__91620ac37b2495f190199736e45191e5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__93440323408eda5a26726604e626cbf9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__935ccfd8666e0d7f0381c64944cd3f31.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__946e463b0dd805b6027904f0da9a638c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__99d552f31689bd58e8d843b6725c1cfc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__9ab226a7f48ced5fe15892335760dfcf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__9b513e9525ebe6316aa5923369c0ece0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__9c1224d688db99fff5e64524e030b59c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__9ebe776022b15a5c0479599194e2b7a9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__9f32bf9b5431c6df506c06f3690a4bc6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__9f74980bf3a666d00b3a455ef46a82c9.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__9fa05a21a1f661c921e5c2fad6ad6ba5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__a0e938663220ce38bd642fa314189b80.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__a26c769bbe3145e4eda97738804748d3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__a275a26d6f61278876e7ea7deb0a3f67.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__a43df36bf39dab72b98a99613c29d185.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__a4ba13bbbdaeaadbf8f51d622b7b5d29.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__a695a1c9780cbabfe9c6325aba421fb0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__a8b25682a86910b174e9788fc62036a8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__a9ec07a492b1f1ac8b14c2f1ff713e7d.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__aa6439590ce1393ae1a537620f6beeab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__aba5b6c09a8c7ece373e8d4522017e79.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__abc5063c7b23b0787d30664d5de9c370.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__ac876d5a719affed81a21734d323d36a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__ae5b67b8ff00770c3ec67d197e67c48d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__ae9228ed549a5e7bcfefef3d83c90aaa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__af60fe6790695c35f56bf97f999ea446.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__afb18dd4f8a46764f228eb10a0580c35.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b1af08d69ccf56f61bb7c851dda4dafe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b1cc4e69f1fa7e267dc6da0164472da1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b2181004c827b033eb0ce4cd2cea5ecb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b231b0302c56109e46f0b742b79f3523.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b5767e286f073dd24068107d229e8ae5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b663c93fe92e0db4287c8b9ff4d98764.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b6cd74af19337fbfa84376cb75b65825.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b6fdaf30807fde0dd9f0682a7f12e2a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b8ba861aff5d94a4644b71b22f1bedef.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b9846a27392e2d5254cca2e56d195f8e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__b99028c102551200d4256f379a50f723.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__baefca5b2a3f0e0c16b5ce70409da7ee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__bc837076f8aba823e7fff8e9306f7f65.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__bc89ebe200865b2310cdad60f8318685.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__bcf5f27072ee600aa0f9c223dd4500ac.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__bd5eeef53945af5b668cbdce2c8d1918.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__becdecfa6dfe59307f300a5344cd9a9f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__bf29a5a02e981698913d95067cfed4aa.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__bf630aa153eca86eb63e23817e3a31d4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__bfb8eb8c9a92c91895a2f8e41e809961.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__bfc43e93a5c8febd7c5fbfc345ac46e3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__c271831175ec2fb26bc418ef917dcd8e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__c2a4ba316b630bb0fe44751b0bca1312.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__c2f5cc0e5049ea2e2da95c9845ae7dec.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__c422eedb46287407725a741236a96ad6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__c7ab2d65bb190c656195e62d34d421cc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__c7e0aad234b52318ffba48bee2d835f4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__c8fbf36ec5e8371958b76c5af7b4c5f7.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__caa1e36d41c1100964ecc475cc403f61.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__cb8adb2ffcc691a22c1bd0726c6288ac.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__cef36ae9625ad24fce620aa28fa3f9e4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__cf89ea169081d58a22aaca418c6b1f43.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__d199f719a917cb518fd7dfbe6423be4c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__d4ce9e77f8c0a7b05d09f8b6ac797ef4.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__d81edc6515e0253ae7db376a74f61edf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__d87037abc222129c3df5e410db9ee36c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__da0164c3d1aecb981342c35f148af022.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__da6e62d20c0ca2e1a66305b5bb104072.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__dc286b035863263b8debf6b0ec4ecf33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__df69994e7380863636a3082d2247c073.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e0e8db07a9e461f5805ce19d1ef1e394.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e2c051612361c411aa0e4b7c68dbbc9b.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e2d4911188f468cec42550e987ad5700.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e42a8dc28ed29034e5484519f36e5c31.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e527146fe778881a7e78f8018194a42e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e654a5a10512b13bda4f7cdd72b7aa03.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e7a1dc1a3fda25146fdb8ca45ead1746.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e81e3d6149da737909fa376b1154975f.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e8758122ef9143dee9fba2f9b6da40d2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e9018cddc60a93c870f92a5560bfa57d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e941dfde8ce925f8c20f5635be12eddc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__e9b380ddb7eeef5821fd79c12477587a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__ed361c47ebd71160c7feb95e387de568.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__ed8ecf3f851969adb8dee7d802c1f92e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__eeb0487d7ae87ed74a39af3a7fa90bc4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__eeec565542558a785d7ca402beefc873.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__efeb6ffaa3a47721dc6a40e421e28806.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f0b0eecab7ec7ef89e28e2547f400a03.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f0e9b4b5cbf5d05bcfa9659ee6ef0eaf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f100761da5c97bfa29623effdc1ffa1d.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f148e5e9f3c2aae8d668a01596ba69b1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f16059bfcf33ec0bf688841fe41f629f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f16a313e4b5f79552ade580940e3c206.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f230a513ced4c6ef5871b0feacac02ba.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f34d8c89b29f7218007f57a68a4f00a0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f3821bae5018b72a8c3b90af12b08a1f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f3a8d980154a8c2ed0491d11b3f4d509.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f3c27ce9ec94bb4526adf927fb035dab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f4875a19d13e5c83e144c1a3975f9374.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f4b69c003337b8bf3bbfc24c307a8692.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f506f88b98a4714cc67eb1dcfe97feec.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__f78abcd4404b7554fad7b600d87cda96.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__faa09991b694bb73f75d03d2d9d5b367.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__fb0eafd669d9451eec857845901ef52c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__fb1e4ad116d8430381fcc610fcd8614c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__fb3f29f0f8f8f97782ad3c04e354fb62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__fbe7c42b2821f81e1ad0aff45c4e08a7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__fd5e4ebdc2fd702f76d9462470b722c4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d2dce433-932b-4ee0-82ab-ad2d68f1a5f6__fe1cea51ad547e731e922bd3ba240c2e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/d9567a1ccbe4342daad480353dd6a0ad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/emotion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/entrance.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/f84c20ba5e14fbc833bf9a3da2275452.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/free" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/hm.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/jquery.mCustomScrollbar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/js.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/jszip.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/kefu_1599649695799_oop68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/loading.71fcb259.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/lodash.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/main.b536d25e.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/muse-ui.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/nc.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/out_config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/pdfkit.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/plugin404.8de7c6fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/sswwerror.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/stats.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/svg-to-pdfkit.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/sw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/udeskApi.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/v-tooltip.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/vendors.0X6225825617818785.dll.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/version.dynamic.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/version.static.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/vue-resource.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/vue-router.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/vue.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车_files/vuex.min.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/富农找车项目管理排期表.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/架构设计/erp系统/架构设计.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/架构设计/找车表结构设计.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/架构设计/数据字典.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/__MACOSX/满帮接口规范/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/__MACOSX/满帮接口规范/._OpenAPI接口汇总0924版 .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/__MACOSX/满帮接口规范/._满帮接口规范V1.4.0_合作商模式.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/满帮接口平台.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/满帮接口规范.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/满帮接口规范/OpenAPI接口汇总0924版 .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/满帮接口规范/满帮接口规范V1.4.0_合作商模式.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/申请资料.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/申请资料/yyzz.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/申请资料/zjz_f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/申请资料/zjz_z.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/甜头菜有限公司_资料/项目交接/找车100/满帮接口/申请资料/公司资料.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +319,13 @@
     <session id="-1416484046">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -62,7 +343,18 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,10 +379,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1056" />
-    <option name="height" value="791" />
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="2506" />
+    <option name="height" value="1463" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -553,8 +845,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -571,7 +863,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629775651499" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629876425512" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -579,6 +871,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\draw_dev\draw_dev\流程图" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -603,7 +900,11 @@
       <option name="presentableId" value="Default" />
       <updated>1608553666430</updated>
       <workItem from="1608553668489" duration="3224000" />
-      <workItem from="1629775416474" duration="254000" />
+      <workItem from="1629775416474" duration="931000" />
+      <workItem from="1635924063438" duration="629000" />
+      <workItem from="1638362267187" duration="6000" />
+      <workItem from="1638410830462" duration="1303000" />
+      <workItem from="1638432702629" duration="635000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'main' of github.com:lq460541033/draw_dev into main&#10;&#10;Conflicts:&#10;&#9;java学习/java.xmind">
       <created>1608553897971</created>
@@ -633,24 +934,31 @@
       <option name="project" value="LOCAL" />
       <updated>1629775563520</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="上线计划">
+      <created>1629775679326</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629775679326</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3478000" />
+    <option name="totallyTimeSpent" value="6728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1477" height="888" extended-state="6" />
+    <frame x="-7" y="-7" width="1477" height="888" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="设计师" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15482055" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15763547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Statistic" />
+      <window_info id="设计师" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -658,11 +966,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.17724867" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.16402116" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
